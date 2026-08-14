@@ -4,7 +4,10 @@
 Amazon Web Services (AWS) is the world’s most broadly adopted cloud platform, launched in 2006 by Amazon. It offers over 200 fully featured services including computing, storage, databases, networking, analytics, artificial intelligence, and more — delivered on a pay-as-you-go basis from data centers worldwide. AWS serves startups, enterprises, and government organizations, helping them reduce costs, increase agility, and scale globally.
 
 ## Global Infrastructure
-AWS operates **32 geographic Regions** worldwide, with **102 Availability Zones** (isolated data centers) and hundreds of edge locations. This extensive global footprint enables low-latency, highly resilient deployment anywhere in the world.
+The AWS Cloud spans **123 Availability Zones** within **39 Geographic Regions**, 
+with announced plans for 7 more Availability Zones and 2 more Regions in 
+Saudi Arabia and Chile. AWS infrastructure is described as the most secure, 
+reliable, and extensive cloud — optimized for resilience, performance, and innovation.
 
 ## Cloud Management Console
 The AWS Management Console is a unified web-based interface located at 
@@ -38,3 +41,4 @@ configure, and monitor all AWS services, manage security, and track resources.
 - Amazon S3 Docs: https://docs.aws.amazon.com/s3
 - Amazon VPC Docs: https://docs.aws.amazon.com/vpc
 - Amazon RDS Docs: https://docs.aws.amazon.com/rds
+- AWS Global Infrastructure Page: https://aws.amazon.com/about-aws/global-infrastructure/
