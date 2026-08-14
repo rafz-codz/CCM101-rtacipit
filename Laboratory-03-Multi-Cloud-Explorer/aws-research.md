@@ -34,13 +34,13 @@ configure, and monitor all AWS services, manage security, and track resources.
 - **Healthcare & Life Sciences** — Healthcare organizations accelerate innovation, securely store patient records, and advance medical research.
 
 ---
+---
 ## References / Sources
-- AWS Official Website: https://aws.amazon.com
-- AWS Official Homepage: https://aws.amazon.com
+- AWS Official Website & Homepage: https://aws.amazon.com
 - AWS Documentation: https://docs.aws.amazon.com
-- Amazon EC2 Docs: https://docs.aws.amazon.com/ec2
-- Amazon S3 Docs: https://docs.aws.amazon.com/s3
-- Amazon VPC Docs: https://docs.aws.amazon.com/vpc
-- Amazon RDS Docs: https://docs.aws.amazon.com/rds
-- AWS Global Infrastructure Page: https://aws.amazon.com/about-aws/global-infrastructure/
-- AWS Solutions & Industry Use Cases: https://aws.amazon.com/solutions/
+- Amazon EC2 Documentation: https://docs.aws.amazon.com/ec2
+- Amazon S3 Documentation: https://docs.aws.amazon.com/s3
+- Amazon VPC Documentation: https://docs.aws.amazon.com/vpc
+- Amazon RDS Documentation: https://docs.aws.amazon.com/rds
+- AWS Global Infrastructure: https://aws.amazon.com/about-aws/global-infrastructure/
+- AWS Solutions & Use Cases: https://aws.amazon.com/solutions/
