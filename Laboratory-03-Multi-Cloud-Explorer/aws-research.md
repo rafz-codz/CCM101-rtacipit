@@ -7,7 +7,9 @@ Amazon Web Services (AWS) is the world’s most broadly adopted cloud platform, 
 AWS operates **32 geographic Regions** worldwide, with **102 Availability Zones** (isolated data centers) and hundreds of edge locations. This extensive global footprint enables low-latency, highly resilient deployment anywhere in the world.
 
 ## Cloud Management Console
-AWS provides a unified web-based interface at **console.aws.amazon.com**. From a single dashboard, you can access, configure, and monitor every AWS service, manage security, track costs, and view operational health — all in one place.
+The AWS Management Console is a unified web-based interface located at 
+`console.aws.amazon.com`. It provides a single dashboard where you can access, 
+configure, and monitor all AWS services, manage security, and track resources.
 
 ## Four Core Services
 1. **Amazon EC2 (Elastic Compute Cloud)** — Resizable virtual server capacity in the cloud. Launch applications without investing in physical hardware, and scale up/down automatically as needed.
